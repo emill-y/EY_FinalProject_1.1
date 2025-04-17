@@ -7,7 +7,7 @@ function HomePage() {
     <div className="App">
       <header className="App-header">
         <h1 className="text-4xl font-bold">Welcome to BrandMap</h1>
-        <p className="mt-4">Explore thoughts and opinions on your favorite brands.</p>
+        <p className="mt-4">Share and Explore thoughts and opinions on your favorite brands.</p>
       </header>
 
       <div className="mt-8 flex justify-around">
